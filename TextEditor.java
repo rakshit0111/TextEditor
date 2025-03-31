@@ -504,7 +504,7 @@ public class TextEditor extends JFrame {
                 "Java Text Editor\nVersion 1.0\n\n" +
                         "A feature-rich text editor with themes, font selection,\n" +
                         "typing speed tracking, and more.\n\n" +
-                        "© 2023 Your Name",
+                        "© 2025",
                 "About Java Text Editor",
                 JOptionPane.INFORMATION_MESSAGE);
     }
